@@ -1,0 +1,2 @@
+# gemscompany_informal_site
+みんなで作るジェムカン非公式サイト
