@@ -1,0 +1,130 @@
+/* レスポンシプ未対応 */
+html{
+  height: 100%;
+  width: 100%;
+  background-color: #dcdcdc;
+}
+body{
+  height: 100%;
+  width: 80%;
+  margin: 50px auto;
+}
+/* タイトル */
+Marquee{
+  background-color: white;
+  border: solid;
+}
+h1{
+  font-size: 64px;
+}
+/* 全体写真 */
+.group-introduction img{
+  height: auto;
+  width: 100%;
+  margin-top: 50px;
+}
+/* 紹介 */
+h2{
+  height: auto;
+  width: 100%;
+  margin-top: 50px;
+  padding-top: 20px;
+  font-size: 32px;
+  border-top: solid;
+  text-align:center;
+}
+.group-introduction p{
+  font-size: 24px;
+}
+/* メンバーページへのリンク */
+.member-introduction{
+  height: 100%;
+  width: 100%;
+}
+.member{
+  height: 250px;
+  width: 250px;
+  margin: 10px 60px;
+  float: left;
+  text-align:center;
+  font-size: 24px;
+  border: solid;
+}
+.member img{
+  margin-top: 10px;
+}
+.member p{
+  margin: 0px;
+}
+.tamaneuta{
+  background-color: #3ddd9f;
+}
+.hosinahinaka{
+  background-color: #fd9b5c;
+}
+.naninunene{
+  background-color: #ffb0c6;
+}
+.arisugawareika{
+  background-color: #cd66cf;
+}
+.mizusinaaoi{
+  background-color: #61e3f3;
+}
+.sironoyuzuki{
+  background-color: #2ab10d;
+}
+.hasemikoto{
+  background-color: #7e48c0;
+}
+.otowasizuku{
+  background-color: #1361ff;
+}
+.akabayukino{
+  background-color: #fe0000;
+}
+.itimonjimaya{
+  background-color: #fff001;
+}
+.hanabisinadesiko{
+  background-color: #f2f2f2;
+}
+.momomarunekuto{
+  background-color: #ff67b0;
+}
+/* フッター */
+.footer{
+  height: 100px;
+  width: 100%;
+}
+.footer img{
+  float: right;
+}
+
+/* =====メンバー紹介ページ----- */
+/* メンバー画像 */
+.content-left{
+  height: 100%;
+  width: 49%;
+  display: inline-block;
+  text-align:center;
+}
+.content-left img{
+  height: 100%;
+  width: auto;
+}
+/* プロフィール */
+.content-right{
+  height: 100%;
+  width: 50%;
+  display: inline-block;
+  border: solid;
+  float: right;
+}
+.profile{
+  padding: 5%;
+}
+.content-right table{
+  width: 80%;
+  margin-top: 50px;
+}
