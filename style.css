@@ -56,46 +56,34 @@ h2{
 .member p{
   margin: 0px;
 }
-.tamaneuta{
-  background-color: #3ddd9f;
-}
-.hosinahinaka{
-  background-color: #fd9b5c;
-}
-.naninunene{
-  background-color: #ffb0c6;
-}
-.arisugawareika{
-  background-color: #cd66cf;
-}
-.mizusinaaoi{
-  background-color: #61e3f3;
-}
-.sironoyuzuki{
-  background-color: #2ab10d;
-}
-.hasemikoto{
-  background-color: #7e48c0;
-}
-.otowasizuku{
-  background-color: #1361ff;
-}
-.akabayukino{
-  background-color: #fe0000;
-}
-.itimonjimaya{
-  background-color: #fff001;
-}
-.hanabisinadesiko{
-  background-color: #f2f2f2;
-}
-.momomarunekuto{
-  background-color: #ff67b0;
+.tamaneuta{background-color: #3ddd9f;}
+.hosinahinaka{background-color: #fd9b5c;}
+.naninunene{background-color: #ffb0c6;}
+.arisugawareika{background-color: #cd66cf;}
+.mizusinaaoi{background-color: #61e3f3;}
+.sironoyuzuki{background-color: #2ab10d;}
+.hasemikoto{background-color: #7e48c0;}
+.otowasizuku{background-color: #1361ff;}
+.akabayukino{background-color: #fe0000;}
+.itimonjimaya{background-color: #fff001;}
+.hanabisinadesiko{background-color: #f2f2f2;}
+.momomarunekuto{background-color: #ff67b0;}
+/* メディア掲載情報欄 */
+.publication{
+  height: 200px;
+  width: 70%;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  overflow: auto;
+  background-color: #f7f7f7;
+  margin: auto;
+  padding: 10px;
 }
 /* フッター */
 .footer{
   height: 100px;
   width: 100%;
+  overflow: auto;
 }
 .footer img{
   float: right;
